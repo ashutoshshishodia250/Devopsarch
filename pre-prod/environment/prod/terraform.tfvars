@@ -8,6 +8,16 @@ rgs = {
     rg_name     = "rg-practice2"
     rg_location = "east us 2"
   }
+
+  rg3 = {
+    rg_name     = "rg-practice3"
+    rg_location = "east us 2"
+  }
+
+   rg4 = {
+    rg_name     = "rg-practice4"
+    rg_location = "east us 2"
+  }
 }
 
 vnets = {
